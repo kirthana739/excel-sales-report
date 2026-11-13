@@ -46,9 +46,14 @@ This project analyzes **100 sales orders from January to December 2024** with a 
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+### Main Dashboard
+![Main Dashboard](MAIN_DASHBOARD.png)
 
-> Add a screenshot of your Dashboard sheet as `dashboard.png` in this repository so it shows here.
+### Product Dashboard
+![Product Dashboard](PRODUCT_DASHBOARD.png)
+
+### Salesman Dashboard
+![Salesman Dashboard](SALESMAN_DASHBOARD.png)
 
 ## Tools Used
 
