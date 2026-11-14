@@ -69,6 +69,4 @@ This project analyzes **100 sales orders from January to December 2024** with a 
 3. Go to the **Dashboard** sheet and use the slicers to filter the data.
 
 ## Author
-
-**Your Name**
-GitHub: [@your-username](https://github.com/your-username)
+kirthana739
